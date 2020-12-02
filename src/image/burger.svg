@@ -1,0 +1,12 @@
+<svg id="Menu" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Path_3" data-name="Path 3" class="cls-1" d="M.687,64.428H21.313c.38,0,.687-.958.687-2.138s-.308-2.138-.687-2.138H.687C.308,60.152,0,61.11,0,62.29S.308,64.428.687,64.428Z" transform="translate(0 -60.152)"/>
+  <path id="Path_4" data-name="Path 4" class="cls-1" d="M18.086,180.455H.583c-.322,0-.583.958-.583,2.138s.261,2.138.583,2.138h17.5c.322,0,.583-.958.583-2.138S18.408,180.455,18.086,180.455Z" transform="translate(0 -171.593)"/>
+  <path id="Path_5" data-name="Path 5" class="cls-1" d="M14.036,300.758H.453c-.25,0-.453.958-.453,2.138s.2,2.138.453,2.138H14.036c.25,0,.453-.958.453-2.138S14.285,300.758,14.036,300.758Z" transform="translate(0 -283.034)"/>
+</svg>
